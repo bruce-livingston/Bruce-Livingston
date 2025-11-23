@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Bruce 👋
 
-<!--
-**bruce-livingston/Bruce-Livingston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [your role: e.g., Network Administrator / IT Generalist / Aspiring AI Engineer] with experience in:
 
-Here are some ideas to get you started:
+- 🖧 Networking & infrastructure: Ruckus, Check Point, VMware, Windows Server
+- ☁️ Cloud & security: Azure, CrowdStrike, GLBA / NIST-focused compliance
+- 🤖 AI & data: Python, basic ML/LLM tinkering, HPC projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- Building small HPC clusters for AI research
+- Modernizing network & security at a private college
+- Studying for CompTIA A+, Network+, and Azure certifications
+
+## 💼 Highlighted Work
+- [Project 1 Name](https://github.com/your-username/project1) – one-line explanation
+- [Project 2 Name](https://github.com/your-username/project2)
+- [Project 3 Name](https://github.com/your-username/project3)
+
+## 🛠 Tech Stack
+**Languages:** Python, PowerShell, Bash  
+**Cloud / Infra:** Azure, VMware, Windows Server, Linux  
+**Security / Tools:** CrowdStrike, Check Point, Ruckus, Wireshark, Git
+
+## 📫 How to Reach Me
+- Email: you@example.com  
+- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
