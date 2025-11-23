@@ -1,15 +1,15 @@
 # Hi, I'm Bruce 👋
 
-I'm a [your role: e.g., Network Administrator / IT Generalist / Aspiring AI Engineer] with experience in:
+I'm a Business Leader / Network Administrator / IT Generalist / Aspiring AI Engineer / CIS Professor with experience in:
 
 - 🖧 Networking & infrastructure: Ruckus, Check Point, VMware, Windows Server
 - ☁️ Cloud & security: Azure, CrowdStrike, GLBA / NIST-focused compliance
 - 🤖 AI & data: Python, basic ML/LLM tinkering, HPC projects
 
 ## 🔭 Current Projects
-- Building small HPC clusters for AI research
+- Building cutting edge AI research model
 - Modernizing network & security at a private college
-- Studying for CompTIA A+, Network+, and Azure certifications
+- 
 
 ## 💼 Highlighted Work
 - [Project 1 Name](https://github.com/your-username/project1) – one-line explanation
@@ -22,5 +22,5 @@ I'm a [your role: e.g., Network Administrator / IT Generalist / Aspiring AI Engi
 **Security / Tools:** CrowdStrike, Check Point, Ruckus, Wireshark, Git
 
 ## 📫 How to Reach Me
-- Email: you@example.com  
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
+- Email: blivingston1@gmail.com  
+- LinkedIn: [Bruce Livingston](https://www.linkedin.com/in/blivingston1)
