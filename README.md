@@ -9,10 +9,10 @@ I'm a Business Leader / Network Administrator / IT Generalist / Aspiring AI Engi
 ## 🔭 Current Projects
 - Building cutting edge AI research model
 - Modernizing network & security at a private college
-- 
+  
 
 ## 💼 Highlighted Work
-- [Project 1 Name](https://github.com/your-username/project1) – one-line explanation
+- [Project 1 Name](https://github.com/your-username/project1) 
 - [Project 2 Name](https://github.com/your-username/project2)
 - [Project 3 Name](https://github.com/your-username/project3)
 
